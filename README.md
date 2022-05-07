@@ -1,2 +1,2 @@
 # Tribute-Page
-Página Tributo de Enjambre (Proyecto Free Code Camp)
+Página Tributo sobre Diana Spencer (Proyecto Free Code Camp)
