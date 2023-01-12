@@ -8,7 +8,7 @@ Tribute Page about Diana Spencer (Lady Di) for the first project of the FreeCode
 
 ## Installation
 
-For the project installation; you only need to clone this project on your computer as the project does not require complicated configurations
+For the project installation; you only need to clone this project on your computer; as the project does not require complicated configurations
 
 ## Status
 
